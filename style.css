@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(0, 173, 81, 0.811);
+    text-align: center;
+}
+
+.jet{
+    color: white;
+    background-color: rgb(139, 13, 13);
+    width: 400px;
+    height: 80px;
+    margin: auto;
+}
+
+.ket{
+border: 7px solid red;
+
+width: 869px;
+height: 100px;
+margin: auto;
+margin-top: 40px;
+background-color: aqua;
+border-color: solid red;
+}
+
+.cet{
+    border: 7px solid red;
+    width: 869px;
+    height: 100px;
+    background-color: aqua;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+
+.pet{
+    width: 900px;
+    height: 300px;
+    background-color: black;
+    
+}
